@@ -103,4 +103,5 @@ nb-configuration.xml
 *.gif
 *.mov
 *.mp4
-.mpeg
+*.mpeg
+*.txt
